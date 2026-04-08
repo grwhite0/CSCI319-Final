@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Learning Pygame",
+			"path": "."
+		},
+		{
+			"name": "fonts",
+			"path": "../ScreenManager/fonts"
+		}
+	],
+	"settings": {}
+}
